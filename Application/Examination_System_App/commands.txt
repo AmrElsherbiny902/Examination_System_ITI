@@ -1,0 +1,11 @@
+# Commands help
+
+## run server
+
+```plaintext
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+
+flet run 
+
+flet run --web --host 127.0.0.1
+```

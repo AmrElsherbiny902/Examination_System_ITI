@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49041CED-D97A-2E8D-A1A9-209D154E373D}|GP report 1-2.rptproj|H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Instructor.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{49041CED-D97A-2E8D-A1A9-209D154E373D}|GP report 1-2.rptproj|solutionrelative:Instructor.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49041CED-D97A-2E8D-A1A9-209D154E373D}|GP report 1-2.rptproj|H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Student Grades.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{49041CED-D97A-2E8D-A1A9-209D154E373D}|GP report 1-2.rptproj|solutionrelative:Student Grades.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49041CED-D97A-2E8D-A1A9-209D154E373D}|GP report 1-2.rptproj|H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Track student.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{49041CED-D97A-2E8D-A1A9-209D154E373D}|GP report 1-2.rptproj|solutionrelative:Track student.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Instructor.rdl [Design]",
+              "DocumentMoniker": "H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Instructor.rdl",
+              "RelativeDocumentMoniker": "Instructor.rdl",
+              "ToolTip": "H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Instructor.rdl [Design]",
+              "RelativeToolTip": "Instructor.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-28T13:57:03.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student Grades.rdl [Design]",
+              "DocumentMoniker": "H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Student Grades.rdl",
+              "RelativeDocumentMoniker": "Student Grades.rdl",
+              "ToolTip": "C:\\Users\\El-Wattaneya\\source\\repos\\GP report 1-2\\Student Grades.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-28T13:25:53.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Track student.rdl [Design]",
+              "DocumentMoniker": "H:\\My Drive\\ITI-Projects\\Graduation-Project-Team-1\\SSRS\\GP report 1-2\\Track student.rdl",
+              "RelativeDocumentMoniker": "Track student.rdl",
+              "ToolTip": "C:\\Users\\El-Wattaneya\\source\\repos\\GP report 1-2\\Track student.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-28T13:12:14.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

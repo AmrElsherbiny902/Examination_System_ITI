@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-S2CJUN5_POLVO_DEV.LM_DWH3"
+  DTS:DTSID="{E9CF2A95-0A4E-4F76-A12E-56F6F0294861}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-S2CJUN5\POLVO_DEV;Initial Catalog=LM_DWH3;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-learningManagementETL-{E9CF2A95-0A4E-4F76-A12E-56F6F0294861}DESKTOP-S2CJUN5\POLVO_DEV.LM_DWH3;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

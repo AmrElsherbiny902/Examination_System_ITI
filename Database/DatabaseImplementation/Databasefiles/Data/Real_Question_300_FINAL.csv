@@ -1,0 +1,301 @@
+QuestionID,QuestionText,DifficultyLevel,QuestionType,CourseCode
+1,What is a fundamental concept in Web Development 32?,Easy,MCQ,WD32
+2,What is a fundamental concept in Testing 29?,Hard,MCQ,TS29
+3,What type of analysis predicts future trends?,Medium,MCQ,BI02
+4,What is a fundamental concept in Python Programming 76?,Easy,T/F,PY76
+5,What is a fundamental concept in Python Programming 21?,Easy,MCQ,PY21
+6,What is a fundamental concept in DevOps 25?,Medium,MCQ,DV25
+7,What is a fundamental concept in Data Science 14?,Hard,MCQ,DS14
+8,Which type of malware replicates itself?,Hard,T/F,CS75
+9,What is a fundamental concept in DevOps 98?,Easy,T/F,DV98
+10,What is a fundamental concept in UI/UX Design 41?,Medium,MCQ,UX41
+11,What is the primary language for Android development?,Hard,MCQ,MB52
+12,What type of analysis predicts future trends?,Hard,T/F,BI83
+13,What is a fundamental concept in Python Programming 85?,Hard,T/F,PY85
+14,What does the term 'responsive design' mean in mobile development?,Easy,MCQ,MB40
+15,What is a fundamental concept in Python Programming 74?,Hard,MCQ,PY74
+16,What is a fundamental concept in Web Development 23?,Medium,MCQ,WD23
+17,What is the primary language for Android development?,Medium,MCQ,MB39
+18,What is a fundamental concept in Data Science 10?,Easy,MCQ,DS10
+19,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI97
+20,What is a fundamental concept in Data Science 84?,Medium,T/F,DS84
+21,Which algorithm is typically used for supervised classification tasks?,Easy,T/F,AI88
+22,What is a fundamental concept in Data Science 79?,Easy,MCQ,DS79
+23,What is a fundamental concept in Web Development 73?,Hard,MCQ,WD73
+24,Which algorithm is typically used for supervised classification tasks?,Easy,T/F,AI86
+25,What is a fundamental concept in Data Science 68?,Hard,T/F,DS68
+26,Which protocol is used for secure data transmission?,Medium,MCQ,CS57
+27,What is a fundamental concept in Web Development 77?,Easy,T/F,WD77
+28,What is a fundamental concept in DevOps 81?,Hard,MCQ,DV81
+29,What is a common form of phishing attack?,Hard,T/F,CS22
+30,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI55
+31,What is a fundamental concept in Data Science 61?,Hard,T/F,DS61
+32,What is a fundamental concept in Testing 46?,Medium,T/F,TS46
+33,Which protocol is used for secure data transmission?,Medium,MCQ,CS20
+34,What is a fundamental concept in Python Programming 63?,Hard,T/F,PY63
+35,Which type of malware replicates itself?,Easy,T/F,CS12
+36,Which layout is best for performance in Android apps?,Easy,MCQ,MB69
+37,Which algorithm is typically used for supervised classification tasks?,Hard,T/F,AI78
+38,What is a fundamental concept in Web Development 30?,Hard,T/F,WD30
+39,What is a fundamental concept in Web Development 67?,Easy,MCQ,WD67
+40,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI27
+41,What is a fundamental concept in Data Science 72?,Easy,T/F,DS72
+42,What is a fundamental concept in DevOps 50?,Easy,MCQ,DV50
+43,What is a fundamental concept in UI/UX Design 31?,Easy,MCQ,UX31
+44,What is ETL in data warehousing?,Medium,T/F,BI06
+45,What is a fundamental concept in Data Science 45?,Easy,T/F,DS45
+46,Which protocol is used for secure data transmission?,Medium,T/F,CS49
+47,What is a common form of phishing attack?,Easy,T/F,CS42
+48,What is a fundamental concept in DevOps 47?,Easy,T/F,DV47
+49,What is a fundamental concept in Python Programming 24?,Medium,MCQ,PY24
+50,What is a fundamental concept in Python Programming 15?,Easy,T/F,PY15
+51,Which protocol is used for secure data transmission?,Hard,MCQ,CS66
+52,What is a fundamental concept in UI/UX Design 13?,Easy,T/F,UX13
+53,What type of analysis predicts future trends?,Medium,MCQ,BI08
+54,What is ETL in data warehousing?,Hard,MCQ,BI92
+55,Which layout is best for performance in Android apps?,Easy,MCQ,MB01
+56,What is a fundamental concept in Web Development 80?,Easy,T/F,WD80
+57,What type of analysis predicts future trends?,Easy,T/F,BI38
+58,What is a fundamental concept in Python Programming 48?,Hard,T/F,PY48
+59,Which type of malware replicates itself?,Hard,T/F,CS51
+60,What type of analysis predicts future trends?,Hard,T/F,BI36
+61,What is a fundamental concept in UI/UX Design 71?,Medium,MCQ,UX71
+62,What is a common form of phishing attack?,Hard,MCQ,CS11
+63,Which layout is best for performance in Android apps?,Hard,T/F,MB37
+64,Which protocol is used for secure data transmission?,Easy,MCQ,CS64
+65,What is a fundamental concept in Web Development 43?,Easy,T/F,WD43
+66,Which type of malware replicates itself?,Medium,MCQ,CS05
+67,Which type of malware replicates itself?,Medium,MCQ,CS70
+68,What is a fundamental concept in Data Science 9?,Medium,T/F,DS09
+69,What is a fundamental concept in Data Science 59?,Medium,T/F,DS59
+70,What is a fundamental concept in Web Development 28?,Hard,MCQ,WD28
+71,What is a fundamental concept in UI/UX Design 96?,Medium,MCQ,UX96
+72,What is a fundamental concept in Web Development 99?,Hard,T/F,WD99
+73,Which type of malware replicates itself?,Hard,T/F,CS04
+74,What is a fundamental concept in DevOps 89?,Medium,T/F,DV89
+75,Which layout is best for performance in Android apps?,Hard,MCQ,MB54
+76,What is a fundamental concept in DevOps 95?,Easy,MCQ,DV95
+77,What is a fundamental concept in Data Science 65?,Hard,T/F,DS65
+78,Which algorithm is typically used for supervised classification tasks?,Hard,T/F,AI100
+79,What is a fundamental concept in Python Programming 62?,Hard,MCQ,PY62
+80,What is a fundamental concept in Data Science 91?,Medium,T/F,DS91
+81,What is a fundamental concept in UI/UX Design 93?,Hard,MCQ,UX93
+82,What is a common form of phishing attack?,Easy,T/F,CS18
+83,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI33
+84,Which algorithm is typically used for supervised classification tasks?,Easy,MCQ,AI17
+85,What is a fundamental concept in Python Programming 7?,Medium,T/F,PY07
+86,What is a fundamental concept in UI/UX Design 87?,Easy,MCQ,UX87
+87,What is ETL in data warehousing?,Medium,MCQ,BI19
+88,What is the primary language for Android development?,Medium,MCQ,MB26
+89,What does the term 'responsive design' mean in mobile development?,Easy,MCQ,MB44
+90,What is a fundamental concept in Data Science 58?,Hard,MCQ,DS58
+91,What is a fundamental concept in Python Programming 82?,Hard,MCQ,PY82
+92,What is a fundamental concept in DevOps 35?,Medium,T/F,DV35
+93,Which layout is best for performance in Android apps?,Medium,MCQ,MB56
+94,What does the term 'responsive design' mean in mobile development?,Hard,MCQ,MB16
+95,What is a fundamental concept in Web Development 94?,Easy,MCQ,WD94
+96,What is a fundamental concept in Testing 34?,Easy,T/F,TS34
+97,What is a fundamental concept in Testing 90?,Medium,MCQ,TS90
+98,What is a fundamental concept in UI/UX Design 53?,Hard,MCQ,UX53
+99,What is a fundamental concept in DevOps 60?,Hard,T/F,DV60
+100,Which layout is best for performance in Android apps?,Medium,MCQ,MB03
+101,What is a fundamental concept in Web Development 32?,Easy,T/F,WD32
+102,What is a fundamental concept in Testing 29?,Medium,T/F,TS29
+103,What type of analysis predicts future trends?,Medium,T/F,BI02
+104,What is a fundamental concept in Python Programming 76?,Hard,T/F,PY76
+105,What is a fundamental concept in Python Programming 21?,Easy,T/F,PY21
+106,What is a fundamental concept in DevOps 25?,Hard,MCQ,DV25
+107,What is a fundamental concept in Data Science 14?,Medium,T/F,DS14
+108,Which type of malware replicates itself?,Medium,MCQ,CS75
+109,What is a fundamental concept in DevOps 98?,Easy,MCQ,DV98
+110,What is a fundamental concept in UI/UX Design 41?,Hard,T/F,UX41
+111,What does the term 'responsive design' mean in mobile development?,Medium,T/F,MB52
+112,Which tool is commonly used in BI for data visualization?,Medium,T/F,BI83
+113,What is a fundamental concept in Python Programming 85?,Medium,T/F,PY85
+114,Which layout is best for performance in Android apps?,Hard,MCQ,MB40
+115,What is a fundamental concept in Python Programming 74?,Medium,MCQ,PY74
+116,What is a fundamental concept in Web Development 23?,Medium,MCQ,WD23
+117,What does the term 'responsive design' mean in mobile development?,Easy,T/F,MB39
+118,What is a fundamental concept in Data Science 10?,Medium,MCQ,DS10
+119,Which algorithm is typically used for supervised classification tasks?,Hard,T/F,AI97
+120,What is a fundamental concept in Data Science 84?,Easy,T/F,DS84
+121,Which algorithm is typically used for supervised classification tasks?,Hard,T/F,AI88
+122,What is a fundamental concept in Data Science 79?,Hard,MCQ,DS79
+123,What is a fundamental concept in Web Development 73?,Medium,MCQ,WD73
+124,Which algorithm is typically used for supervised classification tasks?,Easy,T/F,AI86
+125,What is a fundamental concept in Data Science 68?,Medium,MCQ,DS68
+126,What is a common form of phishing attack?,Hard,T/F,CS57
+127,What is a fundamental concept in Web Development 77?,Medium,T/F,WD77
+128,What is a fundamental concept in DevOps 81?,Medium,T/F,DV81
+129,Which type of malware replicates itself?,Hard,MCQ,CS22
+130,Which algorithm is typically used for supervised classification tasks?,Medium,T/F,AI55
+131,What is a fundamental concept in Data Science 61?,Hard,MCQ,DS61
+132,What is a fundamental concept in Testing 46?,Medium,MCQ,TS46
+133,Which type of malware replicates itself?,Medium,T/F,CS20
+134,What is a fundamental concept in Python Programming 63?,Hard,T/F,PY63
+135,What is a common form of phishing attack?,Easy,T/F,CS12
+136,What is the primary language for Android development?,Hard,T/F,MB69
+137,Which algorithm is typically used for supervised classification tasks?,Easy,MCQ,AI78
+138,What is a fundamental concept in Web Development 30?,Hard,MCQ,WD30
+139,What is a fundamental concept in Web Development 67?,Easy,MCQ,WD67
+140,Which algorithm is typically used for supervised classification tasks?,Hard,T/F,AI27
+141,What is a fundamental concept in Data Science 72?,Medium,MCQ,DS72
+142,What is a fundamental concept in DevOps 50?,Hard,MCQ,DV50
+143,What is a fundamental concept in UI/UX Design 31?,Hard,MCQ,UX31
+144,Which tool is commonly used in BI for data visualization?,Easy,T/F,BI06
+145,What is a fundamental concept in Data Science 45?,Hard,T/F,DS45
+146,What is a common form of phishing attack?,Medium,MCQ,CS49
+147,What is a common form of phishing attack?,Easy,MCQ,CS42
+148,What is a fundamental concept in DevOps 47?,Medium,MCQ,DV47
+149,What is a fundamental concept in Python Programming 24?,Medium,T/F,PY24
+150,What is a fundamental concept in Python Programming 15?,Medium,MCQ,PY15
+151,Which type of malware replicates itself?,Hard,T/F,CS66
+152,What is a fundamental concept in UI/UX Design 13?,Medium,T/F,UX13
+153,What type of analysis predicts future trends?,Medium,T/F,BI08
+154,What type of analysis predicts future trends?,Easy,T/F,BI92
+155,Which layout is best for performance in Android apps?,Hard,MCQ,MB01
+156,What is a fundamental concept in Web Development 80?,Easy,T/F,WD80
+157,What type of analysis predicts future trends?,Medium,MCQ,BI38
+158,What is a fundamental concept in Python Programming 48?,Medium,MCQ,PY48
+159,Which protocol is used for secure data transmission?,Easy,MCQ,CS51
+160,Which tool is commonly used in BI for data visualization?,Hard,MCQ,BI36
+161,What is a fundamental concept in UI/UX Design 71?,Hard,MCQ,UX71
+162,Which type of malware replicates itself?,Easy,T/F,CS11
+163,Which layout is best for performance in Android apps?,Easy,MCQ,MB37
+164,Which protocol is used for secure data transmission?,Easy,T/F,CS64
+165,What is a fundamental concept in Web Development 43?,Medium,T/F,WD43
+166,Which protocol is used for secure data transmission?,Medium,MCQ,CS05
+167,What is a common form of phishing attack?,Hard,T/F,CS70
+168,What is a fundamental concept in Data Science 9?,Medium,MCQ,DS09
+169,What is a fundamental concept in Data Science 59?,Medium,MCQ,DS59
+170,What is a fundamental concept in Web Development 28?,Easy,T/F,WD28
+171,What is a fundamental concept in UI/UX Design 96?,Easy,T/F,UX96
+172,What is a fundamental concept in Web Development 99?,Hard,MCQ,WD99
+173,What is a common form of phishing attack?,Easy,T/F,CS04
+174,What is a fundamental concept in DevOps 89?,Easy,MCQ,DV89
+175,What does the term 'responsive design' mean in mobile development?,Hard,MCQ,MB54
+176,What is a fundamental concept in DevOps 95?,Easy,MCQ,DV95
+177,What is a fundamental concept in Data Science 65?,Hard,MCQ,DS65
+178,Which algorithm is typically used for supervised classification tasks?,Medium,MCQ,AI100
+179,What is a fundamental concept in Python Programming 62?,Hard,MCQ,PY62
+180,What is a fundamental concept in Data Science 91?,Medium,MCQ,DS91
+181,What is a fundamental concept in UI/UX Design 93?,Hard,MCQ,UX93
+182,Which type of malware replicates itself?,Hard,T/F,CS18
+183,Which algorithm is typically used for supervised classification tasks?,Easy,MCQ,AI33
+184,Which algorithm is typically used for supervised classification tasks?,Hard,T/F,AI17
+185,What is a fundamental concept in Python Programming 7?,Hard,T/F,PY07
+186,What is a fundamental concept in UI/UX Design 87?,Easy,MCQ,UX87
+187,What type of analysis predicts future trends?,Easy,T/F,BI19
+188,Which layout is best for performance in Android apps?,Medium,T/F,MB26
+189,What does the term 'responsive design' mean in mobile development?,Medium,MCQ,MB44
+190,What is a fundamental concept in Data Science 58?,Medium,T/F,DS58
+191,What is a fundamental concept in Python Programming 82?,Easy,MCQ,PY82
+192,What is a fundamental concept in DevOps 35?,Hard,MCQ,DV35
+193,What does the term 'responsive design' mean in mobile development?,Easy,MCQ,MB56
+194,What does the term 'responsive design' mean in mobile development?,Easy,T/F,MB16
+195,What is a fundamental concept in Web Development 94?,Hard,T/F,WD94
+196,What is a fundamental concept in Testing 34?,Medium,T/F,TS34
+197,What is a fundamental concept in Testing 90?,Hard,MCQ,TS90
+198,What is a fundamental concept in UI/UX Design 53?,Medium,MCQ,UX53
+199,What is a fundamental concept in DevOps 60?,Medium,MCQ,DV60
+200,Which layout is best for performance in Android apps?,Easy,T/F,MB03
+201,What is a fundamental concept in Web Development 32?,Hard,T/F,WD32
+202,What is a fundamental concept in Testing 29?,Medium,MCQ,TS29
+203,What is ETL in data warehousing?,Medium,MCQ,BI02
+204,What is a fundamental concept in Python Programming 76?,Easy,T/F,PY76
+205,What is a fundamental concept in Python Programming 21?,Easy,T/F,PY21
+206,What is a fundamental concept in DevOps 25?,Medium,T/F,DV25
+207,What is a fundamental concept in Data Science 14?,Hard,T/F,DS14
+208,Which protocol is used for secure data transmission?,Medium,T/F,CS75
+209,What is a fundamental concept in DevOps 98?,Medium,MCQ,DV98
+210,What is a fundamental concept in UI/UX Design 41?,Hard,T/F,UX41
+211,What does the term 'responsive design' mean in mobile development?,Medium,T/F,MB52
+212,Which tool is commonly used in BI for data visualization?,Medium,T/F,BI83
+213,What is a fundamental concept in Python Programming 85?,Hard,MCQ,PY85
+214,Which layout is best for performance in Android apps?,Medium,T/F,MB40
+215,What is a fundamental concept in Python Programming 74?,Medium,T/F,PY74
+216,What is a fundamental concept in Web Development 23?,Medium,MCQ,WD23
+217,Which layout is best for performance in Android apps?,Medium,MCQ,MB39
+218,What is a fundamental concept in Data Science 10?,Easy,T/F,DS10
+219,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI97
+220,What is a fundamental concept in Data Science 84?,Easy,T/F,DS84
+221,Which algorithm is typically used for supervised classification tasks?,Easy,MCQ,AI88
+222,What is a fundamental concept in Data Science 79?,Easy,T/F,DS79
+223,What is a fundamental concept in Web Development 73?,Hard,T/F,WD73
+224,Which algorithm is typically used for supervised classification tasks?,Medium,T/F,AI86
+225,What is a fundamental concept in Data Science 68?,Hard,T/F,DS68
+226,Which protocol is used for secure data transmission?,Medium,T/F,CS57
+227,What is a fundamental concept in Web Development 77?,Medium,T/F,WD77
+228,What is a fundamental concept in DevOps 81?,Hard,MCQ,DV81
+229,Which protocol is used for secure data transmission?,Hard,T/F,CS22
+230,Which algorithm is typically used for supervised classification tasks?,Medium,MCQ,AI55
+231,What is a fundamental concept in Data Science 61?,Medium,MCQ,DS61
+232,What is a fundamental concept in Testing 46?,Hard,MCQ,TS46
+233,Which protocol is used for secure data transmission?,Hard,T/F,CS20
+234,What is a fundamental concept in Python Programming 63?,Easy,T/F,PY63
+235,Which protocol is used for secure data transmission?,Medium,T/F,CS12
+236,Which layout is best for performance in Android apps?,Medium,MCQ,MB69
+237,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI78
+238,What is a fundamental concept in Web Development 30?,Hard,T/F,WD30
+239,What is a fundamental concept in Web Development 67?,Easy,MCQ,WD67
+240,Which algorithm is typically used for supervised classification tasks?,Hard,MCQ,AI27
+241,What is a fundamental concept in Data Science 72?,Hard,MCQ,DS72
+242,What is a fundamental concept in DevOps 50?,Medium,T/F,DV50
+243,What is a fundamental concept in UI/UX Design 31?,Hard,T/F,UX31
+244,Which tool is commonly used in BI for data visualization?,Easy,T/F,BI06
+245,What is a fundamental concept in Data Science 45?,Hard,T/F,DS45
+246,Which protocol is used for secure data transmission?,Medium,MCQ,CS49
+247,Which protocol is used for secure data transmission?,Medium,T/F,CS42
+248,What is a fundamental concept in DevOps 47?,Medium,MCQ,DV47
+249,What is a fundamental concept in Python Programming 24?,Medium,MCQ,PY24
+250,What is a fundamental concept in Python Programming 15?,Easy,MCQ,PY15
+251,Which protocol is used for secure data transmission?,Hard,T/F,CS66
+252,What is a fundamental concept in UI/UX Design 13?,Hard,T/F,UX13
+253,What type of analysis predicts future trends?,Medium,T/F,BI08
+254,Which tool is commonly used in BI for data visualization?,Easy,T/F,BI92
+255,What is the primary language for Android development?,Hard,T/F,MB01
+256,What is a fundamental concept in Web Development 80?,Medium,MCQ,WD80
+257,Which tool is commonly used in BI for data visualization?,Easy,T/F,BI38
+258,What is a fundamental concept in Python Programming 48?,Easy,T/F,PY48
+259,Which protocol is used for secure data transmission?,Easy,MCQ,CS51
+260,What type of analysis predicts future trends?,Medium,MCQ,BI36
+261,What is a fundamental concept in UI/UX Design 71?,Medium,T/F,UX71
+262,Which type of malware replicates itself?,Easy,T/F,CS11
+263,What is the primary language for Android development?,Hard,T/F,MB37
+264,Which protocol is used for secure data transmission?,Easy,MCQ,CS64
+265,What is a fundamental concept in Web Development 43?,Hard,T/F,WD43
+266,Which protocol is used for secure data transmission?,Hard,MCQ,CS05
+267,Which type of malware replicates itself?,Medium,T/F,CS70
+268,What is a fundamental concept in Data Science 9?,Easy,MCQ,DS09
+269,What is a fundamental concept in Data Science 59?,Medium,MCQ,DS59
+270,What is a fundamental concept in Web Development 28?,Hard,MCQ,WD28
+271,What is a fundamental concept in UI/UX Design 96?,Hard,MCQ,UX96
+272,What is a fundamental concept in Web Development 99?,Hard,T/F,WD99
+273,Which type of malware replicates itself?,Medium,MCQ,CS04
+274,What is a fundamental concept in DevOps 89?,Hard,MCQ,DV89
+275,What does the term 'responsive design' mean in mobile development?,Medium,MCQ,MB54
+276,What is a fundamental concept in DevOps 95?,Easy,T/F,DV95
+277,What is a fundamental concept in Data Science 65?,Easy,MCQ,DS65
+278,Which algorithm is typically used for supervised classification tasks?,Easy,T/F,AI100
+279,What is a fundamental concept in Python Programming 62?,Hard,MCQ,PY62
+280,What is a fundamental concept in Data Science 91?,Medium,MCQ,DS91
+281,What is a fundamental concept in UI/UX Design 93?,Medium,MCQ,UX93
+282,Which type of malware replicates itself?,Easy,MCQ,CS18
+283,Which algorithm is typically used for supervised classification tasks?,Medium,T/F,AI33
+284,Which algorithm is typically used for supervised classification tasks?,Medium,MCQ,AI17
+285,What is a fundamental concept in Python Programming 7?,Medium,T/F,PY07
+286,What is a fundamental concept in UI/UX Design 87?,Easy,MCQ,UX87
+287,Which tool is commonly used in BI for data visualization?,Easy,MCQ,BI19
+288,What does the term 'responsive design' mean in mobile development?,Easy,MCQ,MB26
+289,What is the primary language for Android development?,Hard,MCQ,MB44
+290,What is a fundamental concept in Data Science 58?,Medium,T/F,DS58
+291,What is a fundamental concept in Python Programming 82?,Hard,T/F,PY82
+292,What is a fundamental concept in DevOps 35?,Hard,T/F,DV35
+293,What is the primary language for Android development?,Hard,MCQ,MB56
+294,Which layout is best for performance in Android apps?,Easy,MCQ,MB16
+295,What is a fundamental concept in Web Development 94?,Hard,MCQ,WD94
+296,What is a fundamental concept in Testing 34?,Medium,MCQ,TS34
+297,What is a fundamental concept in Testing 90?,Hard,T/F,TS90
+298,What is a fundamental concept in UI/UX Design 53?,Hard,MCQ,UX53
+299,What is a fundamental concept in DevOps 60?,Medium,MCQ,DV60
+300,What is the primary language for Android development?,Hard,T/F,MB03

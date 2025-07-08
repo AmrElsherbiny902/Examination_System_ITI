@@ -1,0 +1,16 @@
+BranchID,BranchName,Location,ContactEmail,ContactPhone
+1,Giza_Branch,Giza,branch1@example.com,01786579303
+2,Alexandria_Branch,Alexandria,branch2@example.com,01219540831
+3,Dakahlia_Branch,Dakahlia,branch3@example.com,01126855092
+4,Red Sea_Branch,Red Sea,branch4@example.com,01896233790
+5,Beheira_Branch,Beheira,branch5@example.com,01395310485
+6,Fayoum_Branch,Fayoum,branch6@example.com,01362950628
+7,Gharbia_Branch,Gharbia,branch7@example.com,01339670711
+8,Ismailia_Branch,Ismailia,branch8@example.com,01249827706
+9,Kafr El Sheikh_Branch,Kafr El Sheikh,branch9@example.com,01890779946
+10,Matruh_Branch,Matruh,branch10@example.com,01210053353
+11,Minya_Branch,Minya,branch11@example.com,01826600539
+12,Monufia_Branch,Monufia,branch12@example.com,01895285932
+13,New Valley_Branch,New Valley,branch13@example.com,01685582861
+14,North Sinai_Branch,North Sinai,branch14@example.com,01193349856
+15,Cairo_Branch,Cairo,branch15@example.com,01734036506

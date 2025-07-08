@@ -1,0 +1,51 @@
+TrackID,TrackName,Description,TrackCategory,AdminID,ProgramID
+1,Fullstack Python,Fullstack Python Track Description,Technical,25,1
+2,Cybersecurity,Cybersecurity Track Description,Technical,65,2
+3,Data Science,Data Science Track Description,Technical,12,1
+4,UI/UX Design,UI/UX Design Track Description,Technical,23,2
+5,Embedded Systems,Embedded Systems Track Description,Technical,29,2
+6,Mobile Development,Mobile Development Track Description,Technical,32,3
+7,Frontend React,Frontend React Track Description,Technical,70,1
+8,Backend NodeJS,Backend NodeJS Track Description,Technical,96,1
+9,DevOps,DevOps Track Description,Technical,71,2
+10,Software Testing,Software Testing Track Description,Technical,82,3
+11,Power BI,Power BI Track Description,Technical,69,1
+12,ML & AI,ML & AI Track Description,Technical,66,3
+13,Java Development,Java Development Track Description,Technical,55,3
+14,.NET Fullstack,.NET Fullstack Track Description,Technical,11,3
+15,2D Graphic Design,2D Graphic Design Track Description,Technical,22,1
+16,Motion Graphics,Motion Graphics Track Description,Technical,65,2
+17,System Admin,System Admin Track Description,Technical,39,1
+18,Digital Marketing,Digital Marketing Track Description,Technical,90,2
+19,Cloud Computing,Cloud Computing Track Description,Technical,8,1
+20,BI & Analytics,BI & Analytics Track Description,Technical,41,2
+21,Game Development,Game Development Track Description,Technical,100,3
+22,AR/VR,AR/VR Track Description,Technical,62,2
+23,Network Security,Network Security Track Description,Technical,12,1
+24,IoT Apps,IoT Apps Track Description,Technical,18,1
+25,Open Source Dev,Open Source Dev Track Description,Technical,14,2
+26,Android Dev,Android Dev Track Description,Technical,52,3
+27,iOS Dev,iOS Dev Track Description,Technical,14,3
+28,Cross Platform,Cross Platform Track Description,Technical,73,1
+29,Ethical Hacking,Ethical Hacking Track Description,Technical,13,3
+30,Furniture Design,Furniture Design Track Description,Technical,59,3
+31,Architecture Viz,Architecture Viz Track Description,Technical,55,2
+32,Digital Arts,Digital Arts Track Description,Technical,48,1
+33,Industrial Automation,Industrial Automation Track Description,Technical,11,1
+34,Robotics,Robotics Track Description,Technical,20,2
+35,GIS,GIS Track Description,Technical,62,2
+36,e-Content Dev,e-Content Dev Track Description,Technical,84,1
+37,Social Media Marketing,Social Media Marketing Track Description,Technical,15,2
+38,Database Admin,Database Admin Track Description,Technical,2,1
+39,QA Automation,QA Automation Track Description,Technical,98,2
+40,Scripting,Scripting Track Description,Technical,51,1
+41,Big Data,Big Data Track Description,Technical,53,3
+42,Statistics,Statistics Track Description,Technical,83,3
+43,Web Dev,Web Dev Track Description,Technical,36,2
+44,API Dev,API Dev Track Description,Technical,95,2
+45,UI Engineering,UI Engineering Track Description,Technical,13,2
+46,Analytics,Analytics Track Description,Technical,61,2
+47,AI Systems,AI Systems Track Description,Technical,45,1
+48,InfoSec,InfoSec Track Description,Technical,40,3
+49,Cyber Ops,Cyber Ops Track Description,Technical,71,2
+50,Penetration Testing,Penetration Testing Track Description,Technical,43,3

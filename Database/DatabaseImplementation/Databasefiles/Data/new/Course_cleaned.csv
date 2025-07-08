@@ -1,0 +1,101 @@
+CourseCode,CourseName,Hours,Credits,Prerequisites
+MB01,Mobile Dev 1,30,2,NP
+BI02,Business Intelligence 2,30,2,BI06
+MB03,Mobile Dev 3,30,3,NP
+CS04,Cybersecurity 4,30,3,NP
+CS05,Cybersecurity 5,20,4,NP
+BI06,Business Intelligence 6,40,3,CS11
+PY07,Python Programming 7,20,2,MB52
+BI08,Business Intelligence 8,20,4,NP
+DS09,Data Science 9,20,3,UX53
+DS10,Data Science 10,40,3,NP
+CS11,Cybersecurity 11,30,3,NP
+CS12,Cybersecurity 12,20,2,NP
+UX13,UI/UX Design 13,40,2,MB40
+DS14,Data Science 14,30,4,WD28
+PY15,Python Programming 15,40,3,WD30
+MB16,Mobile Dev 16,20,4,NP
+AI17,Artificial Intelligence 17,20,2,MB40
+CS18,Cybersecurity 18,30,3,WD43
+BI19,Business Intelligence 19,30,4,CS75
+CS20,Cybersecurity 20,40,4,NP
+PY21,Python Programming 21,20,2,NP
+CS22,Cybersecurity 22,20,4,NP
+WD23,Web Development 23,20,4,NP
+PY24,Python Programming 24,20,3,DS61
+DV25,DevOps 25,40,3,NP
+MB26,Mobile Dev 26,30,4,NP
+AI27,Artificial Intelligence 27,40,3,DS09
+WD28,Web Development 28,20,2,NP
+TS29,Testing 29,40,4,BI92
+WD30,Web Development 30,30,4,NP
+UX31,UI/UX Design 31,20,3,CS75
+WD32,Web Development 32,30,3,NP
+AI33,Artificial Intelligence 33,20,2,NP
+TS34,Testing 34,20,4,NP
+DV35,DevOps 35,30,4,NP
+BI36,Business Intelligence 36,40,2,NP
+MB37,Mobile Dev 37,20,4,UX53
+BI38,Business Intelligence 38,40,2,NP
+MB39,Mobile Dev 39,40,4,NP
+MB40,Mobile Dev 40,20,4,NP
+UX41,UI/UX Design 41,20,4,MB56
+CS42,Cybersecurity 42,30,4,NP
+WD43,Web Development 43,30,2,NP
+MB44,Mobile Dev 44,30,3,NP
+DS45,Data Science 45,20,2,NP
+TS46,Testing 46,30,2,WD80
+DV47,DevOps 47,30,2,NP
+PY48,Python Programming 48,30,4,AI78
+CS49,Cybersecurity 49,30,4,NP
+DV50,DevOps 50,40,4,NP
+CS51,Cybersecurity 51,30,3,NP
+MB52,Mobile Dev 52,20,4,NP
+UX53,UI/UX Design 53,40,3,NP
+MB54,Mobile Dev 54,20,4,NP
+AI55,Artificial Intelligence 55,30,2,NP
+MB56,Mobile Dev 56,20,2,NP
+CS57,Cybersecurity 57,30,2,MB39
+DS58,Data Science 58,40,3,NP
+DS59,Data Science 59,30,4,NP
+DV60,DevOps 60,40,4,NP
+DS61,Data Science 61,40,4,NP
+PY62,Python Programming 62,40,2,PY63
+PY63,Python Programming 63,20,4,NP
+CS64,Cybersecurity 64,40,3,DS10
+DS65,Data Science 65,30,3,NP
+CS66,Cybersecurity 66,40,4,NP
+WD67,Web Development 67,40,3,NP
+DS68,Data Science 68,20,3,NP
+MB69,Mobile Dev 69,30,4,NP
+CS70,Cybersecurity 70,20,2,NP
+UX71,UI/UX Design 71,30,3,PY15
+DS72,Data Science 72,40,3,NP
+WD73,Web Development 73,20,2,DS68
+PY74,Python Programming 74,20,3,NP
+CS75,Cybersecurity 75,20,2,NP
+PY76,Python Programming 76,20,2,NP
+WD77,Web Development 77,20,3,NP
+AI78,Artificial Intelligence 78,30,3,NP
+DS79,Data Science 79,20,3,PY15
+WD80,Web Development 80,30,4,NP
+DV81,DevOps 81,40,4,NP
+PY82,Python Programming 82,30,3,AI86
+BI83,Business Intelligence 83,20,4,PY15
+DS84,Data Science 84,30,3,NP
+PY85,Python Programming 85,40,2,DV95
+AI86,Artificial Intelligence 86,20,4,NP
+UX87,UI/UX Design 87,40,3,PY15
+AI88,Artificial Intelligence 88,40,4,NP
+DV89,DevOps 89,40,4,NP
+TS90,Testing 90,30,4,NP
+DS91,Data Science 91,30,3,NP
+BI92,Business Intelligence 92,30,4,NP
+UX93,UI/UX Design 93,20,2,NP
+WD94,Web Development 94,30,2,NP
+DV95,DevOps 95,40,3,PY63
+UX96,UI/UX Design 96,40,4,NP
+AI97,Artificial Intelligence 97,30,2,NP
+DV98,DevOps 98,40,3,NP
+WD99,Web Development 99,20,4,NP
+AI100,Artificial Intelligence 100,40,2,UX87
